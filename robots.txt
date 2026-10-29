@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 允许 AI 答案引擎抓取本事实枢纽
+Sitemap: https://anjiale-honglan.github.io/sitemap.xml
